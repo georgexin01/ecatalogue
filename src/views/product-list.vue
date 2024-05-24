@@ -92,7 +92,6 @@ import { SpreadsheetHelper } from "sbp-google-sheet-helper";
 const route = useRoute();
 
 const products = ref([]);
-const addtoCart = ref([]);
 const totalPrice = ref(0);
 
 // init
